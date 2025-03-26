@@ -18,7 +18,7 @@ const books = [
     id: 3,
     title: "The Power of Now",
     author: "Eckhart Tolle",
-    image: "https://m.media-amazon.com/images/I/81q1npBoA9L._SL1500_.jpg",
+    image: "https://i.pinimg.com/736x/f2/ff/92/f2ff92d1acec13446b566238c766ec6c.jpg",
   },
 ];
 
